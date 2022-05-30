@@ -167,6 +167,10 @@ body {
     background-color: #ffffff;
 }
 
+#emai-div #email:focus {
+    outline: none;
+}
+
 #email::placeholder {
     text-transform: lowercase;
     font-weight: 500;
