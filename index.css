@@ -152,10 +152,11 @@ body {
 #email-div {
     width: 45%;
     border-radius: 10px;
-    background-color: #dcdfe1;
+    background-color: #ffffff;
     padding: 5px;
     display: flex;
     justify-content: space-between;
+    border: 2px solid #E8491D;
 }
 
 #email-div #email {
