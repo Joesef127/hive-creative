@@ -164,7 +164,7 @@ body {
     border-radius: 10px;
     border: none;
     width: 80%;
-    background-color: #dcdfe1;
+    background-color: #ffffff;
 }
 
 #email::placeholder {
@@ -176,7 +176,7 @@ body {
 }
 
 #email-div #btn {
-    background-color: #dcdfe1;
+    background-color: #ffffff;
     border: 0px solid #E8491D;
     border-radius: 100px;
     color: #E8491D;
