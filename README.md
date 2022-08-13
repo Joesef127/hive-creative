@@ -1,4 +1,3 @@
-# hive-creative-2.0
-2nd version of the hive creative responsive portfolio website
+# Hive-Creative 
+Basic Portfolio Website
 
-fully responsive mobile, tablet and desktop view
